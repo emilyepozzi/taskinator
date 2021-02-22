@@ -76,7 +76,7 @@ footer {
 }
 
 .page-content {
-  flex: 1;
+  flex: 1; /* means that the columns can share space evenly between eachother */
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
